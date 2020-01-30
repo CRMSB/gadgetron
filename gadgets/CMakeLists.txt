@@ -4,6 +4,7 @@ endif ()
 
 add_subdirectory(examples)
 add_subdirectory(mri_core)
+add_subdirectory(mri_core_UMS)
 add_subdirectory(interventional_mri)
 add_subdirectory(cmr)
 add_subdirectory(epi)
