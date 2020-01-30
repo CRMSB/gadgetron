@@ -1,3 +1,0 @@
-[submodule "mri_core_ums"]
-	path = mri_core_ums
-	url = ssh://git@www.rmsb.u-bordeaux.fr:2222/atrotier/mri_core_ums.git
